@@ -1,10 +1,10 @@
-# Olá, eu sou [Luiz Henrique] 👋
+# Olá, eu sou Luiz Henrique 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO_INSTAGRAM/)
 
-Sou um [desenvolvedor back-end], apaixonado por [tecnologia].
+Sou um desenvolvedor back-end, apaixonado por tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
 
