@@ -23,7 +23,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
     * ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ## 📫 Como me Encontrar
 
-* **Email:** [luiz.contato.1000@gmail.com]
+* **Email:** [luiz.contato.1000@gmail.com](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/)
 * **LinkedIn:** [https://www.linkedin.com/in/luiz-henrique-49405923a/](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/)
 * **GitHub:** [https://github.com/LouisLuos](https://github.com/SEU_USUARIO_GITHUB)
 * **Instagram:** [https://www.instagram.com/luizhenriqueszc/](https://www.instagram.com/SEU_USUARIO_INSTAGRAM/)
