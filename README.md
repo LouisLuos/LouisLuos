@@ -4,7 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LouisLuos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenriqueszc/)
 
-Sou um desenvolvedor focado em **Back-end**, mas com forte atuação no ecossistema **Full-Stack JavaScript**. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco criar soluções eficientes e escaláveis.
+Desenvolvedor Full Stack com experiência prática no desenvolvimento de ponta a ponta, atuando tanto no ecossistema TypeScript moderno (Node.js, React, Next.js) quanto em Java corporativo (Spring Boot, Spring Security, JPA).  
+
+Construo aplicações completas do back-end ao front-end, crio APIs RESTful robustas, conteinerizo serviços com Docker e automatizo deploys e fluxos de integração contínua via GitHub Actions (CI/CD). Domino a modelagem de bancos de dados relacionais (PostgreSQL) e a estruturação de arquiteturas em camadas com foco em escalabilidade e manutenibilidade.
 
 ## 🛠️ Tecnologias e Ferramentas
 
