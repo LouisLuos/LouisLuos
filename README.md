@@ -47,6 +47,77 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
+
+**🐱 Meus dados no GitHub** 
+
+> 📦 ? Usado no armazenamento do GitHub 
+ > 
+> 🏆 378 Contribuições no ano de 2026
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 30 Repositórios Públicos 
+ > 
+> 🔑 0 Repositórios Privados 
+ > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã                  64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+🌆 Tarde                  1337 commits        ███████████████░░░░░░░░░░   59.19 % 
+🌃 Noite                  696 commits         ████████░░░░░░░░░░░░░░░░░   30.81 % 
+🌙 Madrugada              162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+```
+📅 **Sou mais produtivo em Quinta-Feira** 
+
+```text
+Segunda-Feira            331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Terça-Feira              333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Quarta-Feira             530 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Quinta-Feira             558 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Sexta-Feira              257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Sábado                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Domingo                  111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
+
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**Eu geralmente programo em TypeScript** 
+
+```text
+TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+
+
+
+**Linha do tempo**
+
+![Lines of Code chart](https://raw.githubusercontent.com/LouisLuos/LouisLuos/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/10/2026 16:26:10 UTC
 <!--END_SECTION:waka-->
 
 ---
