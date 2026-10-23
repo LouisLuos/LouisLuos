@@ -30,7 +30,6 @@
 - 🗄️ Domino a modelagem de bancos relacionais (**PostgreSQL**) e arquiteturas em camadas focadas em escalabilidade
 - 💬 Uso diariamente: **.ts**, **.js**, **.java**, **.py**, **.sql**
 - 📫 Como me encontrar: **[luiz.contato.1000@gmail.com](mailto:luiz.contato.1000@gmail.com)**
-- ⚡ Fun fact: *[Insira uma curiosidade sobre você aqui!]*
 - 🧑‍💻 **Tecnologias e Ferramentas que utilizo:**
 
 <p align="center">
