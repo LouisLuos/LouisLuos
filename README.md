@@ -1,41 +1,58 @@
-# Olá, eu sou Luiz Henrique 👋
+# Olá, eu sou o Luiz Henrique! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-49405923a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LouisLuos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenriqueszc/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-henrique-49405923a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LouisLuos" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" style="display:inline-block;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/luizhenriqueszc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" style="display:inline-block;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:luiz.contato.1000@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" style="display:inline-block;" />
+  </a>
+</p>
 
-Desenvolvedor Full Stack com experiência prática no desenvolvimento de ponta a ponta, atuando tanto no ecossistema TypeScript moderno (Node.js, React, Next.js) quanto em Java corporativo (Spring Boot, Spring Security, JPA).  
+<p align="center">
+  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coding GIF" />
+</p>
 
-Construo aplicações completas do back-end ao front-end, crio APIs RESTful robustas, conteinerizo serviços com Docker e automatizo deploys e fluxos de integração contínua via GitHub Actions (CI/CD). Domino a modelagem de bancos de dados relacionais (PostgreSQL) e a estruturação de arquiteturas em camadas com foco em escalabilidade e manutenibilidade.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre Mim:
 
-## 🛠️ Tecnologias e Ferramentas
+- 💻 Sou **Desenvolvedor Full Stack** com experiência prática no desenvolvimento de ponta a ponta <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🚀 Atuo tanto no ecossistema **TypeScript moderno** (Node.js, React, Next.js) quanto em **Java corporativo** (Spring Boot, Spring Security, JPA)
+- 🛠️ Construo APIs RESTful robustas, conteinerizo serviços com **Docker** e automatizo fluxos de CI/CD via **GitHub Actions**
+- 🗄️ Domino a modelagem de bancos relacionais (**PostgreSQL**) e arquiteturas em camadas focadas em escalabilidade
+- 💬 Uso diariamente: **.ts**, **.js**, **.java**, **.py**, **.sql**
+- 📫 Como me encontrar: **[luiz.contato.1000@gmail.com](mailto:luiz.contato.1000@gmail.com)**
+- ⚡ Fun fact: *[Insira uma curiosidade sobre você aqui!]*
+- 🧑‍💻 **Tecnologias e Ferramentas que utilizo:**
 
-### 🖥️ Back-end
-* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-* ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-* ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-* ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,java,spring,py,react,nextjs,bootstrap,html,css,postgres,prisma,docker,githubactions,git,vscode" />
+  </a>
+</p>
 
-### 🗄️ Banco de Dados & ORM
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-* ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+---
 
-### 🌐 Front-end
-* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-* ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="25" /> Minhas Estatísticas no GitHub:
 
-### 🔧 Ferramentas & Outros
-* ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-* ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LouisLuos&theme=dark&mode=weekly&locale=pt_BR" alt="GitHub Streak do Luiz" />
+</p>
 
-## 📫 Como me Encontrar
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-* **Email:** [luiz.contato.1000@gmail.com](mailto:luiz.contato.1000@gmail.com)
-* **LinkedIn:** [luiz-henrique-49405923a](https://www.linkedin.com/in/luiz-henrique-49405923a/)
-* **GitHub:** [LouisLuos](https://github.com/LouisLuos)
+---
+
+### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" /> Uma pitada de humor:
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Piadas de Dev" />
+</p>
