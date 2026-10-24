@@ -47,8 +47,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
@@ -63,43 +61,6 @@
  > 
 > 🔑 0 Repositórios Privados 
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-🌆 Tarde                  1337 commits        ███████████████░░░░░░░░░░   59.19 % 
-🌃 Noite                  696 commits         ████████░░░░░░░░░░░░░░░░░   30.81 % 
-🌙 Madrugada              162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-```
-📅 **Sou mais produtivo em Quinta-Feira** 
-
-```text
-Segunda-Feira            331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Terça-Feira              333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Quarta-Feira             530 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Quinta-Feira             558 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Sexta-Feira              257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Sábado                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Domingo                  111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -117,7 +78,7 @@ C                        2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LouisLuos/LouisLuos/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 16:26:10 UTC
+ Last Updated on 24/10/2026 03:52:43 UTC
 <!--END_SECTION:waka-->
 
 ---
